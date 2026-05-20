@@ -35,13 +35,13 @@ The application accepts resumes in PDF or DOCX format, extracts important inform
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/Home.png)
+![Home](screenshots/1_Home.png)
 
 ### Resume Upload
-![Upload](screenshots/ResumeUpload.png)
+![Upload](screenshots/2_ResumeUpload.png)
 
 ### Match Result
-![Result](screenshots/Result.png)
+![Result](screenshots/3_Result.png)
 
 ---
 
