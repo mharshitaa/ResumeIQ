@@ -1,6 +1,6 @@
 # ResumeIQ – AI Resume Analyzer
 
-🔗 **Live Demo:** [[https://your-vercel-link.vercel.app](https://resume-f506yzpny-harshita-b5bf.vercel.app/match)](https://resume-f506yzpny-harshita-b5bf.vercel.app/)
+🔗 **Live Demo:** https://resume-f506yzpny-harshita-b5bf.vercel.app/
 
 ResumeIQ is an AI-powered web application that analyzes resumes and compares them with job descriptions to determine candidate-job compatibility.
 
